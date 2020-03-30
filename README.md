@@ -1,4 +1,6 @@
 # Academia
 Site para iniciantes no treino de academia. Feito somente para estudo e aprendizado.
 
-![colagem](https://user-images.githubusercontent.com/25597344/77956662-a36b1e80-72a8-11ea-91f1-86037c4fb64c.jpeg)
+
+![](Users\MAXCELL 100\Documents\Richard\Academia\colagem.jpeg)
+<img src="Users\MAXCELL 100\Documents\Richard\Academia\colagem.jpeg">
