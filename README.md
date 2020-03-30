@@ -1,6 +1,6 @@
-# Academia
+# Treino de Academia
 Site para iniciantes no treino de academia.<br />
-Feito somente para estudo e aprendizado.
+Feito somente para estudo e aprendizado.<br />
 Utilizando HTML, CSS, BOOTSTRAP
 
 
